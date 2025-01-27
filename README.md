@@ -1,8 +1,8 @@
-# eCommerce Transactions Dataset Analysis | Zepto - Data Science Assignment
+# eCommerce Transactions Dataset Analysis | Zeotap  - Data Science Assignment
 
 ## 📋 **Assignment Overview**
 
-This project was completed as part of the **Data Science Assignment** for **Zepto**, with the goal of analyzing and deriving insights from an eCommerce transactions dataset. The task involved performing **Exploratory Data Analysis (EDA)** and generating insights to understand customer behavior, sales trends, and product performance.
+This project was completed as part of the **Data Science Assignment** for **Zeotap**, with the goal of analyzing and deriving insights from an eCommerce transactions dataset. The task involved performing **Exploratory Data Analysis (EDA)** and generating insights to understand customer behavior, sales trends, and product performance.
 
 ## 📊 **Dataset Overview**
 
@@ -60,7 +60,7 @@ This assignment demonstrates the ability to clean, analyze, and visualize eComme
 
 ## 📥 **Data Source**
 
-The dataset used in this project is sourced from **Zepto**, provided as part of the assignment.
+The dataset used in this project is sourced from **Zeotap**, provided as part of the assignment.
 
 ## 📜 **License**
 
